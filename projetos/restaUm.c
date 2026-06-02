@@ -1,3 +1,4 @@
+//codigo feito por Caio troaino Collino e Vinicius Vianna
 #include <stdio.h>
 
 #define N 7
